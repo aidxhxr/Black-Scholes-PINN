@@ -1,0 +1,4 @@
+Moneyness,N,Median Mkt Price ($),MAE PINN ($),MAE BSM ($),Rel Err PINN (%),Rel Err BSM (%)
+ITM,25,31.35,6.912,4.014,31.2,15.3
+ATM,8,7.58,10.332,5.250,156.4,61.5
+OTM,31,2.21,5.863,2.426,1030.9,91.9
